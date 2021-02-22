@@ -3,7 +3,7 @@ public class Helloword {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("202trtrrtrrtrtrtrQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQtrtrt1PUSH");
+System.out.println("ZZZZZZZZZZZ202trtrrtrrtrtrtrQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQtrtrt1PUSH");
 	}
 
 }
